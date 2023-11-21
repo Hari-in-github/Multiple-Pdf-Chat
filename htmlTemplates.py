@@ -28,7 +28,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://github.com/Hari-in-github/Multiple-Pdf-Chat/blob/main/docs/Screenshot%202023-11-21%20180509.png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="https://i.ibb.co/h2j2mxV/Screenshot-2023-11-21-180509.png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://github.com/Hari-in-github/Multiple-Pdf-Chat/blob/main/docs/Screenshot%202023-11-21%20182814.png">
+        <img src="https://i.ibb.co/gWs8rPQ/Screenshot-2023-11-21-182814.png" >
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
