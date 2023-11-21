@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://i.ibb.co/rdZC7LZ/Photo-logo-1.png">
+        <img src="https://github.com/Hari-in-github/Multiple-Pdf-Chat/blob/main/docs/Screenshot%202023-11-21%20182814.png">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
